@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RealFinalProjectGame</string>
+    <string name="title_activity_highscorescreen">highscorescreen</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="gameover">GameOver!!!</string>
+    <string name="x_coordinate">X Coordinate</string>
+    <string name="_00">0</string>
+    <string name="_0">0</string>
+    <string name="z_value">Z Value</string>
+    <string name="back_to_menu">Back To Menu</string>
+    <string name="west">West</string>
+    <string name="z_coordinate">Z Coordinate</string>
+    <string name="y_coordinate">Y Coordinate</string>
+    <string name="east">East</string>
+    <string name="x_value">X Value</string>
+    <string name="y_value">Y Value</string>
+    <string name="step_count">Step Count</string>
+    <string name="magnitude">Magnitude</string>
+    <string name="north">North</string>
+    <string name="south">South</string>
+    <string name="tilt_test">Tilt Test</string>
+    <string name="high_score">High Score</string>
+    <string name="play">Play</string>
+    <string name="welcome_to">Welcome to:</string>
+    <string name="color_tapper">Color Tapper!!!</string>
+</resources>
